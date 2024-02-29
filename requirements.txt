@@ -1,0 +1,9 @@
+Django==3.2.3
+djangorestframework==3.12.4
+pytest-django==4.4.0
+python-dotenv
+requests==2.26.0
+ffmpeg==1.4
+flake8==6.1.0
+redis==5.0.2
+celery==5.3.6 
