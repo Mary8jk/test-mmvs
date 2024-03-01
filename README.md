@@ -65,7 +65,7 @@ brew services list
 DJANGO_SETTINGS_MODULE=backend.settings celery -A video_service worker -l info
 ```
 
-Для запуска сервера Django выполним из дериктории /backend:
+Для запуска сервера Django выполним из диретории /backend:
 
 ```
 python3 manage.py runserver
